@@ -1,0 +1,89 @@
+/* javohir */
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Roboto:ital,wght@0,700;0,900;1,500&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#n_1{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(124, 195, 195);
+}
+#n_1 h1{
+   padding: 100px 70px 0px 90px; 
+
+}
+#n_1 h4{
+    margin: 30px 40px 30px 60px;
+}
+ul{
+    list-style: none;
+}
+.icon-link i{
+    font-size: 34px;
+    color: rgb(18, 13, 13);
+    padding: 5px;
+}
+.footer-col{
+    width: 18%;
+    padding: 0 45px;
+}
+.container{
+    max-width: 1720px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+ul li {
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(22, 17, 17);
+}
+
+ul li :hover{
+    transform: scaleX(1.1);
+    color: rgb(153, 74, 74);
+}
+.footer{
+    padding: 70px 0;
+    background-color: rgb(90, 90, 237);
+}
+.footer-col h4{
+    font-size: 20px;
+    columns: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    position: relative;
+    font-weight: 500;
+}
+.footer-col ul li a{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: rgb(15, 10, 4);
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+}
+h3{
+    position: absolute;
+    margin: 0px 1200px ;
+    margin-top: -40px;
+}
+#line{
+    
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 25px;
+}
+h2{
+    text-align: center;
+}
+/* javohir and */
